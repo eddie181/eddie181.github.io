@@ -3,12 +3,52 @@
     <title>Eddie Lv&#x27;s Github Page</title>
     <link href="https://eddie181.github.io/feed.xml" rel="self" />
     <link href="https://eddie181.github.io" />
-    <updated>2026-03-30T19:09:02+08:00</updated>
+    <updated>2026-03-30T19:46:47+08:00</updated>
     <author>
         <name>Eddie Lv</name>
     </author>
     <id>https://eddie181.github.io</id>
 
+    <entry>
+        <title>Publii 架設流程測試</title>
+        <author>
+            <name>Eddie Lv</name>
+        </author>
+        <link href="https://eddie181.github.io/publii-jia-she-liu-cheng-ce-shi.html"/>
+        <id>https://eddie181.github.io/publii-jia-she-liu-cheng-ce-shi.html</id>
+
+        <updated>2026-03-30T19:38:40+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    如果你須要圖文版本，可以看白羊的文章，不過我的方法跟他稍微有點不一樣。（我比較懶、比較外行，用比較稍微不麻煩一點點的方法，主要是差異在 branch 我用預設） 1. 到 Github 註冊帳號 2. 新增一個 Public Repositories，[與同帳號 ID].github.io 3. 建立 Token，Repo 相關權限打勾，強烈建議用 Classic 模式，我一開始用另一個會失敗，原因不明。 新增後的 Token 頁面會出現一串長得像亂碼的東西，這個只會出現一次，因此要先複製好，真的不小心沒複製到就關閉頁面也沒關係，刪除建立好的 Token，再建立一次即可。 3. 下載 Publii，左方選單選擇 Server，再選擇 Github。 4. 有一個欄位是 Token，可以先貼上來。 Website URL：[與同帳號 ID].github.io Username：[與同帳號 ID] Repository：[與同帳號 ID].github.io Branch：main 如果不想搞 Github 的設定的話，現在 Github 預設通常是 main，所以選 main&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>如果你須要圖文版本，可以看<a href="https://blog.sheepht.com/from-zero-to-blog-through-publii-and-github-page.html">白羊</a>的文章，不過我的方法跟他稍微有點不一樣。（我比較懶、比較外行，用比較稍微不麻煩一點點的方法，主要是差異在 branch 我用預設）</p>
+<p> </p>
+<p>1. 到 <a href="https://github.com/">Github</a> 註冊帳號</p>
+<p>2. 新增一個 Public Repositories，<strong class="mr-2 flex-self-stretch d-none d-md-block no-wrap overflow-x-hidden">[與同帳號 ID].github.io</strong></p>
+<p>3. <a href="https://github.com/settings/tokens">建立 Token</a>，Repo 相關權限打勾，強烈建議用 Classic 模式，我一開始用另一個會失敗，原因不明。</p>
+<p>新增後的 Token 頁面會出現一串長得像亂碼的東西，這個只會出現一次，因此要先複製好，真的不小心沒複製到就關閉頁面也沒關係，刪除建立好的 Token，再建立一次即可。</p>
+<p>3. 下載 Publii，左方選單選擇 Server，再選擇 Github。</p>
+<p>4. 有一個欄位是 Token，可以先貼上來。</p>
+<p>Website URL：<strong class="mr-2 flex-self-stretch d-none d-md-block no-wrap overflow-x-hidden">[與同帳號 ID].github.io</strong></p>
+<p>Username：<strong class="mr-2 flex-self-stretch d-none d-md-block no-wrap overflow-x-hidden">[與同帳號 ID]<br></strong></p>
+<p>Repository：<strong class="mr-2 flex-self-stretch d-none d-md-block no-wrap overflow-x-hidden">[與同帳號 ID].github.io</strong></p>
+<p>Branch：main</p>
+<p>如果不想搞 Github 的設定的話，現在 Github 預設通常是 main，所以選 main 就可以少做一件事情。</p>
+<p>其他沒提到的欄位，按照預設即可。</p>
+<p>5. 點擊左下角，Sync your Website，就會同步到網站上了。</p>
+<p> </p>
+<p>如果出現錯誤，請恰各種 AI 模型，跟他說：<br><br>「我正在使用 Publii 架設部落格到 Github 頁面，在最後 Sync 時，出現了錯誤碼。[後面貼上錯誤的內容]」。<br><br>應該很快就會找到問題。</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My First Post by Using Publii</title>
         <author>
