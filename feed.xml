@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Eddie Lv&#x27;s Github Page</title>
+    <link href="https://eddie181.github.io/feed.xml" rel="self" />
+    <link href="https://eddie181.github.io" />
+    <updated>2026-03-30T19:09:02+08:00</updated>
+    <author>
+        <name>Eddie Lv</name>
+    </author>
+    <id>https://eddie181.github.io</id>
+
+    <entry>
+        <title>My First Post by Using Publii</title>
+        <author>
+            <name>Eddie Lv</name>
+        </author>
+        <link href="https://eddie181.github.io/my-first-post-by-using-publii.html"/>
+        <id>https://eddie181.github.io/my-first-post-by-using-publii.html</id>
+
+        <updated>2026-03-30T19:09:02+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hello everyon! My name is Eddie Lv, I Have a blog that called [EddieLv's Blog](https://eddielv.com). I want to test Publii, because I heared it is easy to build and update the blog!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello everyon!</p>
+<p>My name is Eddie Lv, I Have a blog that called [EddieLv's Blog](https://eddielv.com).</p>
+<p>I want to test Publii, because I heared it is easy to build and update the blog!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

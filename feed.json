@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Eddie Lv&#x27;s Github Page",
+    "description": "",
+    "home_page_url": "https://eddie181.github.io",
+    "feed_url": "https://eddie181.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Eddie Lv"
+    },
+    "items": [
+        {
+            "id": "https://eddie181.github.io/my-first-post-by-using-publii.html",
+            "url": "https://eddie181.github.io/my-first-post-by-using-publii.html",
+            "title": "My First Post by Using Publii",
+            "summary": "Hello everyon! My name is Eddie Lv, I Have a blog that called [EddieLv's Blog](https://eddielv.com). I want to test Publii, because I heared it is easy to build and update the blog!",
+            "content_html": "<p>Hello everyon!</p>\n<p>My name is Eddie Lv, I Have a blog that called [EddieLv's Blog](https://eddielv.com).</p>\n<p>I want to test Publii, because I heared it is easy to build and update the blog!</p>",
+            "author": {
+                "name": "Eddie Lv"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-30T19:09:02+08:00",
+            "date_modified": "2026-03-30T19:09:02+08:00"
+        }
+    ]
+}
